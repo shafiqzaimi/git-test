@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "create package.json file",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafiqzaimi/git-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "shafiqzaimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafiqzaimi/git-test/issues"
+  },
+  "homepage": "https://github.com/shafiqzaimi/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
